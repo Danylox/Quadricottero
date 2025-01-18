@@ -1,0 +1,3 @@
+../Core/Src/map.c:7:6:setPwm	9
+../Core/Src/map.c:21:6:ESC_Calibrate	1
+../Core/Src/map.c:36:6:stopMotors	1

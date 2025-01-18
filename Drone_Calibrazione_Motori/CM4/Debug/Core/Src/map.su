@@ -1,0 +1,3 @@
+../Core/Src/map.c:7:6:setPwm	24	static
+../Core/Src/map.c:21:6:ESC_Calibrate	8	static
+../Core/Src/map.c:36:6:stopMotors	4	static
